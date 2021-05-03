@@ -1,0 +1,25 @@
+{% extends "model-page.html" %}
+
+{ % block content %}
+
+<h2>Evento</h2>
+
+<form action="submit" method="post">
+    <input type="number" name="id_evento" value="{{ evento.id }}" hidden>
+    <label for="">titulo:</label>
+    <br>
+    <input type="text" name="titulo" value="{{ evento.titulo }}">
+    <br>
+    <label for="">Data do evento:</label>
+    <br>
+    <input type="datetime-local" name="data_evento" value="{{ evento.get_data_input_evento }}">
+    <br>
+    <label>Descriçao:</label>
+    <br>
+    <textarea name="descricao"" cols="24" rows="5">{{ evento.titulo }}</textarea>
+    <br>
+    <button type="submit">Salvar</button>
+    <a href="/">Cancelar</a>
+</form>
+
+{ % endblock %}
