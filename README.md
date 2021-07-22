@@ -29,6 +29,9 @@ Foi ensinado a baixar, configurar e utilizar O Flask, Request, JSON, SQLAlchemy,
 ### Python para Segurança da Informação
 Foi ensinado a criar programas e ferramentas com Python para a utilização na area de Segurança da Informação.
 
+### Introdução a Ciência de Dados
+Foi utilizado o Pandas, Numpy e o Sklearn(RandomForest) em um pequeno projeto analisando os dados dos passageiros do titanic.
+
 </br>
 
 ## Projetos
@@ -37,6 +40,7 @@ Foi ensinado a criar programas e ferramentas com Python para a utilização na a
 - Pasta django: Projeto aonde foi ensinado a utilizar o django.
 - Pasta flask: Projeto aonde foi ensinado a utilizar o flask.
 - Pasta SDI: Projeto aonde foi ensinado a criar ferramentas em Python para a area de Segurança da Informação.
+- Pasta ICD: Projeto aonde foi ensinado a usar o Pandas, Numpy e o sklearn(RandomForest).
 
 </br>
 
