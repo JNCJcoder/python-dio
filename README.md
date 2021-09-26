@@ -35,6 +35,8 @@ Foi utilizado o Pandas, Numpy e o Sklearn(RandomForest) em um pequeno projeto an
 ### Desafios Python
 - Soluções Aritméticas em Python
 - Solucionando Desafios em Python
+- [Análise de dados com Python e Pandas](https://github.com/JNCJcoder/DIO-PANDAS-PYTHON)
+- [Desafio GCP Dataproc da DIO](https://github.com/JNCJcoder/DIO-DESAFIO-DATAPROC)
 
 </br>
 
